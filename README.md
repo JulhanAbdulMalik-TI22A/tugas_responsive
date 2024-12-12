@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# ppm_uts_julhan
+# Tugas Renponsive
 
 A new Flutter project.
 
